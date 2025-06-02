@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### My Languages and Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src=https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,docker,postgres,mysql,nodejs,react,cs,py,java,arduino,godot,unity,ps,pr,vscode,visualstudio,discord&perline=7&theme=dark>
+    <img src=https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,docker,postgres,mysql,nodejs,react,cs,py,java,arduino,godot,unity,ps,pr,vscode,visualstudio,discord,discordjs&perline=7&theme=dark>
   </a>
 </p>
 
