@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src=https://skillicons.dev/icons?i=     cs, js, html, css, php, py, mysql, godot, arduino, bootstrap, discord, java, ps, pr, react, unity, visualstudio, vscode     &perline=9&theme=dark>
 -->
 
-- 🥀 I’m currently working on my final paper, a 3D game named Red Inquiry (placeholder)
+- 🥀 I’m currently working on my final paper, a 3D game named Red Inquiry
 - 😭 I’m currently learning React, RN and API management.
 - 💔 Pronouns: He/Him
 
